@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "F:\\StudioWorks\\ChattDemo Main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_bubble_gray.png",
+        "source": "F:\\StudioWorks\\ChattDemo Main\\app\\src\\main\\res\\drawable-xhdpi\\chat_bubble_gray.png"
+    },
+    {
+        "merged": "F:\\StudioWorks\\ChattDemo Main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_bubble_green.png",
+        "source": "F:\\StudioWorks\\ChattDemo Main\\app\\src\\main\\res\\drawable-xhdpi\\chat_bubble_green.png"
+    },
+    {
+        "merged": "F:\\StudioWorks\\ChattDemo Main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "F:\\StudioWorks\\ChattDemo Main\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\StudioWorks\\ChattDemo Main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo_login.png",
+        "source": "F:\\StudioWorks\\ChattDemo Main\\app\\src\\main\\res\\drawable-xhdpi\\logo_login.png"
+    },
+    {
+        "merged": "F:\\StudioWorks\\ChattDemo Main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\background.png",
+        "source": "F:\\StudioWorks\\ChattDemo Main\\app\\src\\main\\res\\drawable-xhdpi\\background.png"
+    },
+    {
+        "merged": "F:\\StudioWorks\\ChattDemo Main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_online.png",
+        "source": "F:\\StudioWorks\\ChattDemo Main\\app\\src\\main\\res\\drawable-xhdpi\\ic_online.png"
+    },
+    {
+        "merged": "F:\\StudioWorks\\ChattDemo Main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\user_chat1.png",
+        "source": "F:\\StudioWorks\\ChattDemo Main\\app\\src\\main\\res\\drawable-xhdpi\\user_chat1.png"
+    },
+    {
+        "merged": "F:\\StudioWorks\\ChattDemo Main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\edittext_bg.png",
+        "source": "F:\\StudioWorks\\ChattDemo Main\\app\\src\\main\\res\\drawable-xhdpi\\edittext_bg.png"
+    },
+    {
+        "merged": "F:\\StudioWorks\\ChattDemo Main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_username.png",
+        "source": "F:\\StudioWorks\\ChattDemo Main\\app\\src\\main\\res\\drawable-xhdpi\\ic_username.png"
+    },
+    {
+        "merged": "F:\\StudioWorks\\ChattDemo Main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\editext_bg_gray.png",
+        "source": "F:\\StudioWorks\\ChattDemo Main\\app\\src\\main\\res\\drawable-xhdpi\\editext_bg_gray.png"
+    },
+    {
+        "merged": "F:\\StudioWorks\\ChattDemo Main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_offline.png",
+        "source": "F:\\StudioWorks\\ChattDemo Main\\app\\src\\main\\res\\drawable-xhdpi\\ic_offline.png"
+    },
+    {
+        "merged": "F:\\StudioWorks\\ChattDemo Main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_pwd.png",
+        "source": "F:\\StudioWorks\\ChattDemo Main\\app\\src\\main\\res\\drawable-xhdpi\\ic_pwd.png"
+    },
+    {
+        "merged": "F:\\StudioWorks\\ChattDemo Main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\back_arrow.png",
+        "source": "F:\\StudioWorks\\ChattDemo Main\\app\\src\\main\\res\\drawable-xhdpi\\back_arrow.png"
+    },
+    {
+        "merged": "F:\\StudioWorks\\ChattDemo Main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_send.png",
+        "source": "F:\\StudioWorks\\ChattDemo Main\\app\\src\\main\\res\\drawable-xhdpi\\ic_send.png"
+    },
+    {
+        "merged": "F:\\StudioWorks\\ChattDemo Main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon.png",
+        "source": "F:\\StudioWorks\\ChattDemo Main\\app\\src\\main\\res\\drawable-xhdpi\\icon.png"
+    },
+    {
+        "merged": "F:\\StudioWorks\\ChattDemo Main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\actionbar_bg.png",
+        "source": "F:\\StudioWorks\\ChattDemo Main\\app\\src\\main\\res\\drawable-xhdpi\\actionbar_bg.png"
+    },
+    {
+        "merged": "F:\\StudioWorks\\ChattDemo Main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\user_chat2.png",
+        "source": "F:\\StudioWorks\\ChattDemo Main\\app\\src\\main\\res\\drawable-xhdpi\\user_chat2.png"
+    },
+    {
+        "merged": "F:\\StudioWorks\\ChattDemo Main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\green_btn.png",
+        "source": "F:\\StudioWorks\\ChattDemo Main\\app\\src\\main\\res\\drawable-xhdpi\\green_btn.png"
+    },
+    {
+        "merged": "F:\\StudioWorks\\ChattDemo Main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_compose.png",
+        "source": "F:\\StudioWorks\\ChattDemo Main\\app\\src\\main\\res\\drawable-xhdpi\\ic_compose.png"
+    },
+    {
+        "merged": "F:\\StudioWorks\\ChattDemo Main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\arrow.png",
+        "source": "F:\\StudioWorks\\ChattDemo Main\\app\\src\\main\\res\\drawable-xhdpi\\arrow.png"
+    }
+]
